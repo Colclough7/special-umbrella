@@ -1,0 +1,24 @@
+.technologies{
+    display:flex;
+    align-items:left;
+    justify-content:space-evenly;
+}
+
+.fa-html5,.fa-css3-alt,.fa-js,.fa-node,.fa-react{
+    font-size: 35px;
+}
+.fa-html5{
+    color: 	#f06529;
+}
+.fa-css3-alt{
+    color: 	#2965f1;
+}
+.fa-js{
+    color: #F0DB4F;
+}
+.fa-node{
+    color: #3C873A;
+}
+.fa-react{
+    color: #61dbfb;
+}
